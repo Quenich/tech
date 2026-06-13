@@ -64,6 +64,12 @@ npm install -g @anthropic-ai/claude-code
 claude
 ```
 
+> **Windows の場合：PowerShell ではなく「コマンドプロンプト」で実行する**
+>
+> Windows では、PowerShell ではなく **コマンドプロンプト（Command Prompt）** で `claude` を実行する必要がありました。
+>
+> ターミナルパネルの右上にある **「+」ボタンの横の矢印（∨）** をクリックすると、起動するターミナルの種類を選べます。そこで「Command Prompt」を選ぶと切り替えられます。
+
 ### 初回：ターミナルでの初期設定
 
 初めて `claude` を実行すると、ブラウザが開く前にターミナル内でいくつか設定を聞かれます。
